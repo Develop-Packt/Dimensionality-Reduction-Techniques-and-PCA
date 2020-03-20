@@ -1,0 +1,2 @@
+# Dimensionality-Reduction-Techniques-and-PCA
+ In this course, you will apply dimension reduction techniques and describe the concepts behind principal components and dimensionality reduction. This course teaches you how to apply Principal Component Analysis (PCA) when solving problems using scikit-learn. By the end of this course, you will be able to reduce the size of a dataset by extracting only the most important components of variance within the data.
